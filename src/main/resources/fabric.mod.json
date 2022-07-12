@@ -8,9 +8,10 @@
     "Spottedleaf"
   ],
   "contact": {
-    "issues": "https://github.com/Spottedleaf/Starlight/issues",
-    "sources": "https://github.com/Spottedleaf/Starlight",
-    "discord": "https://discord.gg/tuinity"
+    "issues": "https://github.com/PaperMC/Starlight/issues",
+    "sources": "https://github.com/PaperMC/Starlight",
+    "discord": "https://discord.gg/tuinity",
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/starlight"
   },
   "breaks": {
     "phosphor" : "*"
@@ -24,7 +25,7 @@
   ],
   "accessWidener" : "starlight.accesswidener",
   "depends": {
-    "fabricloader": ">=0.10.8",
-    "minecraft": ">=1.17.0"
+    "fabricloader": ">=0.14.6",
+    "minecraft": "1.19.*"
   }
 }
